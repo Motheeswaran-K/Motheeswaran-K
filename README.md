@@ -12,6 +12,12 @@ I am currently working on LoadXpress : Heavy Vehicles Booking & Tracking Platfor
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Motheeswaran-K&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Motheeswaran-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<h3 align="center">LeetCode Stats</h3>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/MOTHEESWARAN?theme=dark&font=Poppins&ext=contest" alt="MOTHEESWARAN LeetCode Stats"/>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Motheeswaran-K&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
